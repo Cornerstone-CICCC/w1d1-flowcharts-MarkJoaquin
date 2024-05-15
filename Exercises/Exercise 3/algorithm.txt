@@ -1,0 +1,18 @@
+Exercise 3
+
+Write an algorithm and draw a flowchart that will read three numbers and prints the value of the largest number.
+
+Start
+Input A, B, C
+If A > B (true)
+		L = A
+	Else 
+		L = B
+	
+	If L > C (true)
+		Output L
+	Else 
+		L = C
+		Output L 
+Print L
+End

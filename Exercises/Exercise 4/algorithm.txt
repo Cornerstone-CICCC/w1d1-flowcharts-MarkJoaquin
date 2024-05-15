@@ -1,0 +1,12 @@
+Exercise 4 
+
+Write an algorithm and draw a flowchart to check the three number inputs whether a triangle is possible or not.
+
+Start 
+INPUT A, B, C
+SUM = A + B
+IF SUM >= C (true)
+	Output “triangle possible”
+	Else 
+		Output “triangle not possible”
+End
